@@ -9,6 +9,6 @@ Second one is the use of read-line statements
 
 2.https://github.com/manojk955/funcode/blob/master/html/basic%20html/readline.html
 
+Push the written html files into source code of the project.
 
-Should push the written html files into source code of the project.
 
